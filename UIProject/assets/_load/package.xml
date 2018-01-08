@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="l8k177aa" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="lpag0" name="main.xml" path="/" exported="true"/>
+    <component id="nznv6" name="ProgressBar3.xml" path="/components/"/>
+    <image id="nznv7" name="caiji.png" path="/images/"/>
+    <component id="nznv8" name="ProgressBar1.xml" path="/components/"/>
+    <image id="nznv9" name="caiji2.png" path="/images/"/>
+    <image id="nznva" name="loadbg.jpg" path="/images/"/>
+    <component id="nznvb" name="Button9.xml" path="/components/"/>
+    <image id="nznvc" name="k14.png" path="/images/" scale="9grid" scale9grid="40,13,80,26"/>
+    <image id="nznvd" name="k12.png" path="/images/" scale="9grid" scale9grid="40,19,80,18"/>
+    <image id="nznve" name="k13.png" path="/images/" scale="9grid" scale9grid="40,13,80,26"/>
+  </resources>
+  <publish name="_load" path="H:\UnityProject\MixGame\Assets\Resources\FairyGUI\LoadUI"/>
+</packageDescription>

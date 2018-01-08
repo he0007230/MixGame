@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,360">
+  <displayList>
+    <loader id="n0_lpag" name="loadBG" xy="0,0" size="640,360" url="ui://l8k177aanznva" playing="false"/>
+    <text id="n2_qxv5" name="loadMsgText" xy="11,283" size="617,25" fontSize="18" color="#00ff00" ubb="true" autoSize="none" singleLine="true" text="加载数据"/>
+    <component id="n3_nznv" name="progressBar" src="nznv6" xy="180,317">
+      <ProgressBar value="80" max="100"/>
+    </component>
+    <component id="n6_nznv" name="startBtn" src="nznvb" xy="248,222">
+      <Button title="Start"/>
+    </component>
+  </displayList>
+</component>

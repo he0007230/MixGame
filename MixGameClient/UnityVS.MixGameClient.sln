@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MixGameClient.CSharp", "UnityVS.MixGameClient.CSharp.csproj", "{FCD54172-34FB-F038-D35A-0DD091D05562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.MixGameClient.CSharp.Editor", "UnityVS.MixGameClient.CSharp.Editor.csproj", "{4D6EA7E1-B97C-D0E6-2FE3-426D7D29D8AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD54172-34FB-F038-D35A-0DD091D05562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD54172-34FB-F038-D35A-0DD091D05562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD54172-34FB-F038-D35A-0DD091D05562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD54172-34FB-F038-D35A-0DD091D05562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6EA7E1-B97C-D0E6-2FE3-426D7D29D8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6EA7E1-B97C-D0E6-2FE3-426D7D29D8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6EA7E1-B97C-D0E6-2FE3-426D7D29D8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6EA7E1-B97C-D0E6-2FE3-426D7D29D8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
