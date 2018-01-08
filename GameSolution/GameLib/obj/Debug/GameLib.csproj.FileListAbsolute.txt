@@ -1,0 +1,9 @@
+F:\he0007230\MixGame\GameSolution\GameLib\bin\Debug\GameLib.dll
+F:\he0007230\MixGame\GameSolution\GameLib\bin\Debug\GameLib.pdb
+F:\he0007230\MixGame\GameSolution\GameLib\bin\Debug\LogHelper.dll
+F:\he0007230\MixGame\GameSolution\GameLib\bin\Debug\UnityEngine.dll
+F:\he0007230\MixGame\GameSolution\GameLib\bin\Debug\LogHelper.pdb
+F:\he0007230\MixGame\GameSolution\GameLib\obj\Debug\GameLib.csprojResolveAssemblyReference.cache
+F:\he0007230\MixGame\GameSolution\GameLib\obj\Debug\GameLib.dll
+F:\he0007230\MixGame\GameSolution\GameLib\obj\Debug\GameLib.pdb
+F:\he0007230\MixGame\GameSolution\GameLib\bin\Debug\MsgPack.dll
